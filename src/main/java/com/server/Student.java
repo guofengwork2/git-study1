@@ -6,4 +6,6 @@ public class Student {
 	
 	private int age;
 	
+	private int phoneNumber;
+	
 }

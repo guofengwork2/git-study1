@@ -6,6 +6,9 @@ public class Student {
 	
 	private int age;
 	
+	private String home;
+	
 	private int phoneNumber;
+	
 	
 }
